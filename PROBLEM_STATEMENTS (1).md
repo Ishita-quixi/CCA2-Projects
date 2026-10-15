@@ -1,4 +1,4 @@
-# Hugging Face Sentiment Monitor — Additional Problem Statements
+# Hugging Face Sentiment Monitor - Additional Problem Statements
 
 1. Read customer reviews from an Excel file and classify each review as positive or negative.
 2. Extend the monitor to include a neutral category using a suitable model or a documented confidence rule.
